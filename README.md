@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>MediAI — an AI-powered Flutter pharmacy app with RAG-based chatbot, Gemini Vision OCR, and smart medicine reminders (FYP)<br>👫 I'm looking to collaborate on<br>Flutter mobile apps, AI/LLM integrations, or healthcare tech projects<br>🤝 I'm looking for help with<br>LLM fine-tuning, AI agent architectures, and advanced RAG optimization<br>🌱 I'm currently learning<br>AI Agents, LLM training workflows (SFT, RL), and neurosymbolic AI concepts<br>💬 Ask me about<br>Flutter development, Firebase, RAG pipelines, building production apps as a student<br>⚡ Fun fact<br>I built and launched a real healthcare app (HealthSnap) that actual patients in Rawalpindi use — while still in university
+CS graduate building real-world AI solutions — RAG pipelines, LLM integrations, agentic workflows, and AI automation. My work spans from a production-grade AI pharmacist chatbot (MediAI) using Groq, HuggingFace embeddings, and ChromaDB, to autonomous n8n agents and computer vision systems.
+
+Passionate about Generative AI, prompt engineering, and turning AI research into working products.
 
 
 ## 🌐 Socials:
