@@ -1,8 +1,19 @@
 # 💫 About Me:
-CS graduate building real-world AI solutions — RAG pipelines, LLM integrations, agentic workflows, and AI automation. My work spans from a production-grade AI pharmacist chatbot (MediAI) using Groq, HuggingFace embeddings, and ChromaDB, to autonomous n8n agents and computer vision systems.
+Hey! I'm Ahmad — a CS graduate who loves building mobile apps that solve real problems. I don't just build side projects; HealthSnap, one of my apps, is actually being used by real patients in Rawalpindi right now. That's the kind of work I care about — things that ship and actually matter.
 
-Passionate about Generative AI, prompt engineering, and turning AI research into working products.
+I specialize in Flutter and Dart, and I've spent the last two years going deep on cross-platform mobile development — from clean architecture and state management to AI integrations, offline-first systems, and Firebase backends.
 
+🚀 Things I've Built
+
+HealthSnap — Started this because I watched patients in Pakistan carry folders of paper reports to every doctor visit. Built a Flutter app where patients scan their reports, AI extracts the data automatically, and doctors get temporary QR-based access during consultations. It's live and people are actually using it.
+
+MediAI (Final Year Project) — A full pharmacy in your pocket. Online medicine store, smart reminders that know when your medicine is running low, a prescription scanner powered by Gemini Vision, and an AI pharmacist chatbot you can actually ask questions. Also built the entire admin panel in Flutter Web.
+
+NutriNova — Plug in your BMI, goals, and favorite cuisines. Gemini AI generates personalized recipes with calories, ingredients, and cooking steps tailored specifically to you.
+
+🛠️ My Stack
+
+Flutter Dart Firebase GetX Provider SQLite REST APIs Gemini AI OpenAI Cloudinary WorkManager Git
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad_furrokh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmadfurrokh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadfurrokh@gmail.com) 
