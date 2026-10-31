@@ -5,7 +5,7 @@ I'm a Computer Science graduate who loves building mobile apps that solve real p
 
 I specialize in Flutter and Dart, and over the last two years I have gone deep into cross platform mobile development, from clean architecture and state management to AI integrations, offline first systems, Firebase backends and even native Android code with Kotlin.
 
-## 🚀 Things I've Built
+## Things I've Built
 
 **HealthSnap**
 I started this after seeing how many patients in Pakistan carry folders of paper reports to every doctor visit. Patients scan their lab reports, AI extracts the data automatically, and doctors get temporary access through a QR code during the consultation. Access ends when the session ends, so patient privacy stays protected.
@@ -41,10 +41,5 @@ I research first, then write a project document covering requirements, features 
 ![](https://streak-stats.demolab.com/?user=ahmadfurrokh29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmadfurrokh29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=ahmadfurrokh29&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
