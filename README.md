@@ -1,19 +1,35 @@
-# 💫 About Me:
-Hey! I'm Ahmad — a CS graduate who loves building mobile apps that solve real problems. I don't just build side projects; HealthSnap, one of my apps, is actually being used by real patients in Rawalpindi right now. That's the kind of work I care about — things that ship and actually matter.
+#About Me:
+# Hey, I'm Ahmad 👋
 
-I specialize in Flutter and Dart, and I've spent the last two years going deep on cross-platform mobile development — from clean architecture and state management to AI integrations, offline-first systems, and Firebase backends.
+I'm a Computer Science graduate who loves building mobile apps that solve real problems. I care about building things that actually ship and work properly, not just side projects that sit in a folder.
 
-🚀 Things I've Built
+I specialize in Flutter and Dart, and over the last two years I have gone deep into cross platform mobile development, from clean architecture and state management to AI integrations, offline first systems, Firebase backends and even native Android code with Kotlin.
 
-HealthSnap — Started this because I watched patients in Pakistan carry folders of paper reports to every doctor visit. Built a Flutter app where patients scan their reports, AI extracts the data automatically, and doctors get temporary QR-based access during consultations. It's live and people are actually using it.
+## 🚀 Things I've Built
 
-MediAI (Final Year Project) — A full pharmacy in your pocket. Online medicine store, smart reminders that know when your medicine is running low, a prescription scanner powered by Gemini Vision, and an AI pharmacist chatbot you can actually ask questions. Also built the entire admin panel in Flutter Web.
+**HealthSnap**
+I started this after seeing how many patients in Pakistan carry folders of paper reports to every doctor visit. Patients scan their lab reports, AI extracts the data automatically, and doctors get temporary access through a QR code during the consultation. Access ends when the session ends, so patient privacy stays protected.
 
-NutriNova — Plug in your BMI, goals, and favorite cuisines. Gemini AI generates personalized recipes with calories, ingredients, and cooking steps tailored specifically to you.
+**MediAI** (Final Year Project)
+A full pharmacy in your pocket. It has an online medicine store, smart reminders that track your stock and warn you when medicine is running low, a prescription scanner powered by Gemini Vision, and an AI pharmacist chatbot built with RAG. I also built the complete admin panel in Flutter Web.
 
-🛠️ My Stack
+**Brain Bean**
+An Android app that counts the reels and short videos you watch across apps like Instagram, YouTube Shorts and TikTok, then helps you cut down with limits, locks and friendly squad leaderboards. The interface is built in Flutter and the counting runs in a native Kotlin service.
 
-Flutter Dart Firebase GetX Provider SQLite REST APIs Gemini AI OpenAI Cloudinary WorkManager Git
+**NutriNova**
+Enter your BMI, goals and favorite cuisines, and Gemini AI creates personalized recipes with calories, ingredients and cooking steps made for you.
+
+## 🤖 How I Work
+
+I research first, then write a project document covering requirements, features and app flow. I design the screens in Google Stitch and use Claude Code to plan the work in phases, build feature by feature, and test and debug along the way. AI speeds me up, but I review and understand every line that goes into my projects.
+
+## 🛠️ My Stack
+
+`Flutter` `Dart` `Kotlin` `Firebase` `GetX` `Provider` `Riverpod` `SQLite` `REST APIs` `Gemini AI` `OpenAI` `Cloudflare Workers` `Cloudinary` `WorkManager` `Git`
+
+## 📬 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmadfurrokh) • [GitHub](https://github.com/ahmadfurrokh29) • ahmadfurrokh@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad_furrokh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmadfurrokh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadfurrokh@gmail.com) 
