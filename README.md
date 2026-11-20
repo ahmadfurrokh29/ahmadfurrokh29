@@ -1,262 +1,41 @@
- <div align="center">
+# Hey, I'm Ahmad 👋
 
-# Ahmad Furrokh
+I'm a Computer Science graduate who loves building mobile apps that solve real problems. I care about building things that actually ship and work properly, not just side projects that sit in a folder.
 
-### Mobile App Developer · Flutter & Dart · AI Enthusiast
+I specialize in Flutter and Dart, and over the last two years I have gone deep into cross platform mobile development, from clean architecture and state management to AI integrations, offline first systems, Firebase backends and even native Android code with Kotlin.
 
-Building useful applications. Exploring AI. Turning ideas into products.
+## Things I've Built
 
-<br/>
+**HealthSnap**
+I started this after seeing how many patients in Pakistan carry folders of paper reports to every doctor visit. Patients scan their lab reports, AI extracts the data automatically, and doctors get temporary access through a QR code during the consultation. Access ends when the session ends, so patient privacy stays protected.
 
-<a href="https://github.com/ahmadfurrokh29">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ahmadfurrokh">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ahmadfurrokh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**MediAI** (Final Year Project)
+A full pharmacy in your pocket. It has an online medicine store, smart reminders that track your stock and warn you when medicine is running low, a prescription scanner powered by Gemini Vision, and an AI pharmacist chatbot built with RAG. I also built the complete admin panel in Flutter Web.
 
-<br/><br/>
+**Brain Bean**
+An Android app that counts the reels and short videos you watch across apps like Instagram, YouTube Shorts and TikTok, then helps you cut down with limits, locks and friendly squad leaderboards. The interface is built in Flutter and the counting runs in a native Kotlin service.
 
-<img src="https://komarev.com/ghpvc/?username=ahmadfurrokh29&style=flat-square&color=6366f1&label=PROFILE+VIEWS" />
+**NutriNova**
+Enter your BMI, goals and favorite cuisines, and Gemini AI creates personalized recipes with calories, ingredients and cooking steps made for you.
 
-</div>
+## How I Work
 
----
+I research first, then write a project document covering requirements, features and app flow. I design the screens in Google Stitch and use Claude Code to plan the work in phases, build feature by feature, and test and debug along the way. AI speeds me up, but I review and understand every line that goes into my projects.
 
-## `01` — About Me
+## My Stack
 
-I'm a Computer Science graduate who enjoys building mobile applications that solve real-world problems.
+`Flutter` `Dart` `Kotlin` `Firebase` `GetX` `Provider` `Riverpod` `SQLite` `REST APIs` `Gemini AI` `OpenAI` `Cloudflare Workers` `Cloudinary` `WorkManager` `Git`
 
-I specialize in **Flutter and Dart**, with experience in cross-platform development, clean architecture, state management, AI integrations, offline-first systems and Firebase backends. I also work with native Android development using Kotlin.
+## Let's Connect
 
-I believe in building products that are useful, reliable and ready for real users.
+[LinkedIn](https://www.linkedin.com/in/ahmadfurrokh) • [GitHub](https://github.com/ahmadfurrokh29) • ahmadfurrokh@gmail.com
 
-**Currently interested in:** Mobile Engineering, AI-powered applications and intelligent software systems.
+# Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ahmadfurrokh29&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## `02` — Featured Projects
-
-<div align="center">
-
-### Selected Work
-
-*Ideas turned into working products.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. HealthSnap
-
-**Digital Healthcare Management**
-
-A healthcare application designed to simplify medical record management.
-
-- AI-powered lab report scanning and data extraction.
-- Temporary doctor access through QR codes.
-- Session-based access expiration.
-- Secure digital patient records.
-
-**Built with**
-
-`Flutter` `Firebase` `Gemini AI` `Cloudinary`
-
-</td>
-<td width="50%" valign="top">
-
-### 02. MediAI
-
-**AI-Powered Pharmacy Platform**
-
-My Final Year Project, combining e-commerce with intelligent healthcare assistance.
-
-- Online medicine store and ordering.
-- AI pharmacist chatbot powered by RAG.
-- Prescription scanning using Gemini Vision.
-- Smart medication reminders and stock tracking.
-- Complete Flutter Web admin panel.
-
-**Built with**
-
-`Flutter` `Dart` `FastAPI` `Firebase` `RAG` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. Brain Bean
-
-**Digital Wellbeing & Screen Time**
-
-An Android application designed to help users become more aware of their short-video consumption.
-
-- Tracks reels and short videos across apps.
-- Customizable usage limits.
-- App locking and restriction features.
-- Squad leaderboards.
-- Native Kotlin background tracking service.
-
-**Built with**
-
-`Flutter` `Dart` `Kotlin` `Android`
-
-</td>
-<td width="50%" valign="top">
-
-### 04. NutriNova
-
-**AI-Powered Nutrition Assistant**
-
-A personalized nutrition application that generates recipes based on individual preferences and goals.
-
-- BMI-based personalization.
-- Fitness goal selection.
-- Favorite cuisine preferences.
-- AI-generated recipes.
-- Calories, ingredients and cooking instructions.
-
-**Built with**
-
-`Flutter` `Dart` `Gemini AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` — How I Work
-
-I follow a structured development process to turn ideas into working products.
-
-<table>
-<tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/01-6366F1?style=for-the-badge" />
-<br/><b>Research</b>
-<br/><sub>Understand the problem</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/02-6366F1?style=for-the-badge" />
-<br/><b>Document</b>
-<br/><sub>Requirements and app flow</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/03-6366F1?style=for-the-badge" />
-<br/><b>Design</b>
-<br/><sub>UI/UX with Stitch</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/04-6366F1?style=for-the-badge" />
-<br/><b>Plan</b>
-<br/><sub>Claude Code workflows</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/05-6366F1?style=for-the-badge" />
-<br/><b>Develop</b>
-<br/><sub>Build feature by feature</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/06-6366F1?style=for-the-badge" />
-<br/><b>Test</b>
-<br/><sub>Debug and refine</sub>
-</td>
-</tr>
-</table>
-
-I use AI tools to accelerate development, but I review and understand the code that goes into my projects.
-
----
-
-## `04` — Tech Stack
-
-**Mobile Development**
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-</p>
-
-**Backend & Databases**
-
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-**State Management**
-
-<p>
-<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Riverpod-00A6A6?style=for-the-badge" />
-</p>
-
-**AI & Integrations**
-
-<p>
-<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-**Tools & Services**
-
-<p>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## `05` — GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=ahmadfurrokh29&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=ahmadfurrokh29&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfurrokh29&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
----
-
-## `06` — Let's Connect
-
-<div align="center">
-
-### Have an interesting idea or opportunity?
-
-I'm always interested in connecting with developers, exploring new technologies and building meaningful products.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ahmadfurrokh">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ahmadfurrokh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Building. Learning. Improving.**
-
-<sub>Designed and maintained by Ahmad Furrokh</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->\
