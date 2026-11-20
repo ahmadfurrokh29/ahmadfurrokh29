@@ -1,42 +1,148 @@
+Design a premium, modern, visually engaging and highly interactive **GitHub Profile README** for me, Ahmad Furrokh, based on the information and projects provided below.
 
-# Hey, I'm Ahmad 👋
+The goal is to make my GitHub profile stand out from typical developer profiles. I want it to feel like a beautifully designed developer portfolio rather than a plain README filled with text and badges.
 
-I'm a Computer Science graduate who loves building mobile apps that solve real problems. I care about building things that actually ship and work properly, not just side projects that sit in a folder.
+## 1. Overall Design Direction
 
-I specialize in Flutter and Dart, and over the last two years I have gone deep into cross platform mobile development, from clean architecture and state management to AI integrations, offline first systems, Firebase backends and even native Android code with Kotlin.
+Create a sophisticated, dark-themed developer aesthetic.
 
-## Things I've Built
+- Theme: Dark mode with a near-black background.
+- Primary colors: Deep charcoal, subtle indigo, electric blue and soft purple accents.
+- Typography: Modern, clean typography with strong visual hierarchy.
+- Style: Minimal, futuristic, polished, premium and slightly playful.
+- Use subtle gradients, glowing accents, rounded cards, thin borders and tasteful shadows.
+- Maintain sufficient whitespace. Avoid clutter and excessive decoration.
+- Make the entire design responsive and optimized for GitHub's README rendering environment.
+
+## 2. Hero Section
+
+Create an impressive introduction section.
+
+- Large heading: "Hey, I'm Ahmad Furrokh"
+- A short animated-style subtitle: "Building Mobile Experiences | Exploring AI | Turning Ideas Into Products"
+- Include a concise introduction describing me as a Computer Science graduate passionate about mobile application development, AI integration and building practical software products.
+- Add visually appealing technology highlights such as Flutter, Dart, Kotlin and Firebase.
+- Include a GitHub profile link and LinkedIn link as prominent, well-designed buttons or links.
+- Consider a subtle coding-themed visual element, such as a terminal window, developer workspace or abstract technology graphic.
+
+## 3. Featured Projects
+
+This should be the centerpiece of the README.
+
+Present my four projects in a visually appealing grid of interactive-looking project cards. Each card should have:
+
+- Project name
+- Short, engaging description
+- Main technologies used
+- Relevant technology tags
+- A small illustrative visual or abstract project graphic
+- Space for a GitHub repository link and live demo link where available.
+
+Projects:
 
 **HealthSnap**
-I started this after seeing how many patients in Pakistan carry folders of paper reports to every doctor visit. Patients scan their lab reports, AI extracts the data automatically, and doctors get temporary access through a QR code during the consultation. Access ends when the session ends, so patient privacy stays protected.
+A healthcare application that helps patients manage medical records digitally. Patients scan laboratory reports, AI extracts the medical information, and doctors receive temporary access through QR codes during consultations. Access automatically expires when the session ends, protecting patient privacy.
 
-**MediAI** (Final Year Project)
-A full pharmacy in your pocket. It has an online medicine store, smart reminders that track your stock and warn you when medicine is running low, a prescription scanner powered by Gemini Vision, and an AI pharmacist chatbot built with RAG. I also built the complete admin panel in Flutter Web.
+**MediAI – Final Year Project**
+An AI-powered pharmacy application featuring an online medicine store, smart medication reminders, stock tracking, prescription scanning using Gemini Vision and an AI pharmacist chatbot powered by RAG. Includes a complete Flutter Web admin panel.
 
 **Brain Bean**
-An Android app that counts the reels and short videos you watch across apps like Instagram, YouTube Shorts and TikTok, then helps you cut down with limits, locks and friendly squad leaderboards. The interface is built in Flutter and the counting runs in a native Kotlin service.
+An Android digital wellbeing application that tracks reels and short videos watched across Instagram, YouTube Shorts and TikTok. Includes customizable limits, app locks and squad leaderboards. Built with Flutter and a native Kotlin background service.
 
 **NutriNova**
-Enter your BMI, goals and favorite cuisines, and Gemini AI creates personalized recipes with calories, ingredients and cooking steps made for you.
+An AI-powered nutrition application where users enter their BMI, fitness goals and favorite cuisines. Gemini AI generates personalized recipes with calories, ingredients and cooking instructions.
 
-## How I Work
+Give every project its own subtle visual identity while maintaining a consistent card design.
 
-I research first, then write a project document covering requirements, features and app flow. I design the screens in Google Stitch and use Claude Code to plan the work in phases, build feature by feature, and test and debug along the way. AI speeds me up, but I review and understand every line that goes into my projects.
+## 4. How I Work
 
-## My Stack
+Create a visually interesting workflow section showing my development process as a connected timeline or sequence of steps.
 
-`Flutter` `Dart` `Kotlin` `Firebase` `GetX` `Provider` `Riverpod` `SQLite` `REST APIs` `Gemini AI` `OpenAI` `Cloudflare Workers` `Cloudinary` `WorkManager` `Git`
+1. Research and understand the problem.
+2. Document requirements, features and application flow.
+3. Design UI/UX using Google Stitch.
+4. Plan development using Claude Code.
+5. Build features in structured phases.
+6. Test, debug and refine the application.
 
-## Let's Connect
+Include a short statement emphasizing that I use AI tools to accelerate development but review and understand the code that goes into my projects.
 
-[LinkedIn](https://www.linkedin.com/in/ahmadfurrokh) • [GitHub](https://github.com/ahmadfurrokh29) • ahmadfurrokh@gmail.com
+## 5. Technology Stack
 
-# Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ahmadfurrokh29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Avoid a boring wall of badges.
 
+Organize technologies into visually distinct categories:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Mobile Development: Flutter, Dart, Kotlin
+- Backend & Database: Firebase, SQLite, REST APIs, Cloudflare Workers
+- State Management: GetX, Provider, Riverpod
+- AI & Integrations: Gemini AI, OpenAI
+- Media & Storage: Cloudinary
+- Tools: Git, GitHub, WorkManager
+
+Use compact technology chips with recognizable icons where possible.
+
+## 6. GitHub Statistics
+
+Create a dedicated GitHub activity section with three visually balanced statistic panels:
+
+- GitHub Profile Statistics
+- Contribution Streak
+- Most Used Languages
+
+Use these existing dynamic image sources:
+
+Profile Stats:
+https://github-readme-stats.shion.dev/api?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true
+
+Streak Stats:
+https://streak-stats.demolab.com/?user=ahmadfurrokh29&theme=dark&hide_border=false
+
+Top Languages:
+https://github-readme-stats.shion.dev/api/top-langs/?username=ahmadfurrokh29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+
+Make sure the images fit together aesthetically and don't overflow the layout.
+
+## 7. Contact Section
+
+Finish with a visually attractive "Let's Connect" section.
+
+Include:
+- LinkedIn: https://www.linkedin.com/in/ahmadfurrokh
+- GitHub: https://github.com/ahmadfurrokh29
+- Email: ahmadfurrokh@gmail.com
+
+Use recognizable icons and clean links.
+
+## 8. Important GitHub README Constraints
+
+This is extremely important:
+
+Google Stitch is being used to design a GitHub README, NOT a regular website.
+
+Therefore:
+- Use GitHub-compatible Markdown.
+- Use HTML tables, divs, headings, images and inline styles only where GitHub supports them.
+- Do not use JavaScript, React, CSS animations, external CSS files or interactive components that GitHub README cannot render.
+- Simulate interactivity through attractive hover-inspired card designs, visual hierarchy, links, badges and clickable elements.
+- Ensure the final README works on GitHub without requiring a separate hosting service.
+- Preserve all project descriptions and technical details.
+- Do not invent repository URLs, demo URLs, achievements, contribution numbers or experience.
+- Avoid excessive emojis and generic developer clichés.
+- Avoid making the README unnecessarily long.
+
+## 9. Final Deliverable
+
+Create a complete, polished, visually consistent GitHub README design.
+
+I want the result to look like a professional developer portfolio embedded directly into GitHub.
+
+Prioritize:
+1. Strong first impression.
+2. Beautiful featured project presentation.
+3. Clean typography and spacing.
+4. Consistent visual identity.
+5. GitHub compatibility.
+6. Easy future maintenance.
+
+Make creative design decisions independently. Do not make it look like a generic portfolio template. Give it a distinctive identity that reflects a developer who builds real-world mobile applications and explores AI-powered products.
